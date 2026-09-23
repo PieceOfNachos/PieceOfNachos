@@ -71,12 +71,6 @@ Currently working with **React, React Native, TypeScript, Node.js, and MongoDB**
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PieceOfNachos&show_icons=true&hide_border=true)
-
----
-
 ### 📫 Contact
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/temur-garayev/)
