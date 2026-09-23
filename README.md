@@ -73,7 +73,7 @@ Currently working with **React, React Native, TypeScript, Node.js, and MongoDB**
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PieceOfNachos\&show_icons=true\&hide_border=true\&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PieceOfNachos&show_icons=true&hide_border=true)
 
 ---
 
