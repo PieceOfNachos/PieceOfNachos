@@ -68,10 +68,6 @@ Currently working with **React, React Native, TypeScript, Node.js, and MongoDB**
 > A front-end development showcase inspired by Apple's iPhone 15 website.
 
 **Stack:** React · GSAP · JavaScript · Three.js
-
-
-![GitHub Stats](https://ghstats.dev/api/card?username=PieceOfNachos)
-
 ---
 
 ### 📫 Contact
