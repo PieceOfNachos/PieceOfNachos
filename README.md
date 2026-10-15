@@ -69,6 +69,9 @@ Currently working with **React, React Native, TypeScript, Node.js, and MongoDB**
 
 **Stack:** React · GSAP · JavaScript · Three.js
 
+
+![GitHub Stats](https://ghstats.dev/api/card?username=PieceOfNachos)
+
 ---
 
 ### 📫 Contact
